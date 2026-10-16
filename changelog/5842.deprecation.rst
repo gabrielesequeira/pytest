@@ -1,0 +1,2 @@
+The ``PytestPluginManager.getplugin()`` method is now deprecated. Use
+``PytestPluginManager.get_plugin()`` instead.
